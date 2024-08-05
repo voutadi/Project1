@@ -25,11 +25,11 @@ header {
 }
 .logo-container {
   width: 60px;; /* Put condition for smaller or biger divice*/
-  background-color: rgb(134, 6, 38);
+  background-color: rgb(181, 172, 174);
   height: 60px;
 }
 .logo {
-  color: rgb(239, 236, 243);
+  color: rgb(50, 21, 77);
   font-size: 0.4rem;
   font-weight: bold;
 }
