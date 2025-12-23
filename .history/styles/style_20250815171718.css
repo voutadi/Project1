@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: rgb(244,164,96);
+  background-color: rgb(241, 189, 144);
   height: 3000px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1rem;
@@ -69,10 +69,10 @@ header {
 
 .login{
   background-color: #1577da;
-  font-size:
+  font-size: medium;
 
 }
-button {
+button{
   background-color: black;
   color: white;
   
